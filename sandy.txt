@@ -2,4 +2,8 @@ hellokkkk :
 sandy here 
 how are you
 im good
+<<<<<<< HEAD
 papam
+=======
+hello mama
+>>>>>>> 0b0c385793a2eb3d6fc6bfdb627779d3048bc246
